@@ -18,7 +18,7 @@ jobs:
           node-version-file: 'package.json'
           cache: 'npm'
       - run: npm install
-      - run: node index.js
+      - run: npm start
 
       - name: Check for changes
         id: git-check
