@@ -34,5 +34,11 @@
         "price": 200,
         "status": "Sold out",
         "link": "https://lisahanawalt.bigcartel.com/product/strange-sit"
+    },
+    {
+        "title": "Tall Shoes Club",
+        "price": 250,
+        "status": "Sold out",
+        "link": "https://lisahanawalt.bigcartel.com/product/tall-shoes-club"
     }
 ]
