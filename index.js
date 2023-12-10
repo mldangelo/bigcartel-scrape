@@ -5,7 +5,7 @@ const fs = require('fs');
 const baseUrl = 'https://lisahanawalt.bigcartel.com';
 
 async function scrapeArtworks() {
-  const response = await axios.get(`${baseUrl}/category/original-art`);
+  const response = await axios.get(`${baseUrl}/products`);
   const dom = new JSDOM(response.data);
   const { document } = dom.window;
   const productDivs = Array.from(document.querySelectorAll('.prod-thumb'));
