@@ -12,7 +12,7 @@ async function scrapeArtworks() {
   const artworks = productDivs.map((productDiv) => ({
     title: productDiv.querySelector('.prod-thumb-name').textContent.trim(),
     price: parseFloat(productDiv.querySelector('.prod-thumb-price').textContent.trim().replace(/[^\d.]/g, '')),
-    status: productDiv.querySelector('.prod-thumb-status').textContent.trim().replace(/\//g, '').trim(),
+    status: productDiv.querySelector('.prod-thumb-status')?.textContent?.trim()?.replace(/\//g, '')?.trim() || 'Available',
     link: `${baseUrl}${productDiv.href}`,
   }));
   const json = JSON.stringify(artworks.sort((a, b) => a.title.localeCompare(b.title)), null, 4);

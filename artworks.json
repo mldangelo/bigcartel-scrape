@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "title": "*Imperfect!* Cheeky Plants Prints",
+        "price": 16.5,
+        "status": "Sold out",
+        "link": "https://lisahanawalt.bigcartel.com/product/oopsie-imperfect-plant-friends-prints"
+    },
+    {
+        "title": "Cheeky Plants Riso Print",
+        "price": 22,
+        "status": "Sold out",
+        "link": "https://lisahanawalt.bigcartel.com/product/plant-friends-riso-print"
+    },
+    {
+        "title": "Devil's Ivy Sticker",
+        "price": 4.75,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/pothos-ivy-plant-babe"
+    },
+    {
+        "title": "Floral Booty Sticker",
+        "price": 4.25,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/booty-flower-sticker"
+    },
+    {
+        "title": "Mushy Skater Sticker",
+        "price": 4.25,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/mushy-skater"
+    },
+    {
+        "title": "Pothead Sticker",
+        "price": 4.75,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/pothead-plant-babe-sticker"
+    }
+]
