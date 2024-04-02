@@ -6,6 +6,18 @@
         "link": "https://lisahanawalt.bigcartel.com/product/oopsie-imperfect-plant-friends-prints"
     },
     {
+        "title": "Blue Moon Over Griffith Park - BIG",
+        "price": 100,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/blue-moon-over-griffith-park-big"
+    },
+    {
+        "title": "Blue Moon over Griffith Park - small",
+        "price": 45,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/blue-moon-over-griffith-park-small"
+    },
+    {
         "title": "Cheeky Plants Riso Print",
         "price": 22,
         "status": "Sold out",
@@ -24,6 +36,30 @@
         "link": "https://lisahanawalt.bigcartel.com/product/booty-flower-sticker"
     },
     {
+        "title": "I Refuse to be Depressed (Bouquet #1) - BIG",
+        "price": 100,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/i-refuse-to-be-depressed-bouquet-1-big"
+    },
+    {
+        "title": "I Refuse to be Depressed (Bouquet #1) - small",
+        "price": 45,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/i-refuse-to-be-depressed-bouquet-1-small"
+    },
+    {
+        "title": "I'm Still Alive (Bouquet #2) - BIG",
+        "price": 100,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/i-m-still-alive-bouquet-2-big"
+    },
+    {
+        "title": "I'm Still Alive (Bouquet #2) - small",
+        "price": 45,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/i-m-still-alive-bouquet-2-small"
+    },
+    {
         "title": "Mushy Skater Sticker",
         "price": 4.25,
         "status": "Sold out",
@@ -34,5 +70,29 @@
         "price": 4.75,
         "status": "Sold out",
         "link": "https://lisahanawalt.bigcartel.com/product/pothead-plant-babe-sticker"
+    },
+    {
+        "title": "Rich Sloth - BIG",
+        "price": 100,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/rich-sloth-big"
+    },
+    {
+        "title": "Rich Sloth - small",
+        "price": 45,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/rich-sloth-small"
+    },
+    {
+        "title": "Two Horses, Tulips - BIG",
+        "price": 100,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/two-horses-tulips-big"
+    },
+    {
+        "title": "Two Horses, Tulips - small",
+        "price": 45,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/two-horses-tulips-small"
     }
 ]
