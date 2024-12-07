@@ -30,16 +30,16 @@
         "link": "https://lisahanawalt.bigcartel.com/product/blue-moon-over-griffith-park-smalll"
     },
     {
-        "title": "Bouquet Notebooks",
-        "price": 11.99,
-        "status": "Coming soon",
-        "link": "https://lisahanawalt.bigcartel.com/product/bouquet-notebooks"
-    },
-    {
         "title": "Cheeky Plants Riso Print",
         "price": 22,
         "status": "Sold out",
         "link": "https://lisahanawalt.bigcartel.com/product/plant-friends-riso-print"
+    },
+    {
+        "title": "Chubby Little Notebook - Bouquet",
+        "price": 11.99,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/bouquet-notebooks"
     },
     {
         "title": "Devil's Ivy Sticker",
