@@ -30,6 +30,12 @@
         "link": "https://lisahanawalt.bigcartel.com/product/blue-moon-over-griffith-park-smalll"
     },
     {
+        "title": "Bouquet Notebooks",
+        "price": 11.99,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/bouquet-notebooks"
+    },
+    {
         "title": "Cheeky Plants Riso Print",
         "price": 22,
         "status": "Sold out",
@@ -76,6 +82,12 @@
         "price": 45,
         "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/i-m-still-alive-bouquet-2-small"
+    },
+    {
+        "title": "Mushy Baby Keychain",
+        "price": 10.99,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/mushy-baby-keychain"
     },
     {
         "title": "Mushy Magnet Notepad",
@@ -154,6 +166,12 @@
         "price": 4.75,
         "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/rose-head-sticker-red"
+    },
+    {
+        "title": "Selfie Succulent Keychain",
+        "price": 10.99,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/selfie-succulent-keychain"
     },
     {
         "title": "Two Horses, Tulips - BIG",
