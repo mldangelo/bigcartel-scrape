@@ -36,12 +36,6 @@
         "link": "https://lisahanawalt.bigcartel.com/product/plant-friends-riso-print"
     },
     {
-        "title": "Chubby Little Notebook - Bouquet",
-        "price": 11.99,
-        "status": "Coming soon",
-        "link": "https://lisahanawalt.bigcartel.com/product/bouquet-notebooks"
-    },
-    {
         "title": "Devil's Ivy Sticker",
         "price": 4.75,
         "status": "Sold out",
@@ -52,6 +46,12 @@
         "price": 4.25,
         "status": "Sold out",
         "link": "https://lisahanawalt.bigcartel.com/product/booty-flower-sticker"
+    },
+    {
+        "title": "Greeting Card Set - Beasts & Bouquets",
+        "price": 20,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/greeting-card-set-beasts-bouquets"
     },
     {
         "title": "Horsey Sticker",
@@ -85,15 +85,21 @@
     },
     {
         "title": "Keychain - Mushroom Babe",
-        "price": 10.99,
-        "status": "Coming soon",
+        "price": 11,
+        "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/mushy-baby-keychain"
     },
     {
         "title": "Keychain - Selfie Succulent",
-        "price": 10.99,
-        "status": "Coming soon",
+        "price": 11,
+        "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/selfie-succulent-keychain"
+    },
+    {
+        "title": "Little Bouquet Notebook (imperfect)",
+        "price": 11.5,
+        "status": "Available",
+        "link": "https://lisahanawalt.bigcartel.com/product/bouquet-notebooks"
     },
     {
         "title": "Mushy Magnet Notepad",
