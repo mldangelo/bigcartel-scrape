@@ -6,12 +6,6 @@
         "link": "https://lisahanawalt.bigcartel.com/product/bojack-in-red"
     },
     {
-        "title": "*Imperfect!* Cheeky Plants Prints",
-        "price": 16.5,
-        "status": "Sold out",
-        "link": "https://lisahanawalt.bigcartel.com/product/oopsie-imperfect-plant-friends-prints"
-    },
-    {
         "title": "Bad Kitties Sticker Pack",
         "price": 16,
         "status": "Available",
@@ -28,12 +22,6 @@
         "price": 45,
         "status": "Sold out",
         "link": "https://lisahanawalt.bigcartel.com/product/blue-moon-over-griffith-park-smalll"
-    },
-    {
-        "title": "Cheeky Plants Riso Print",
-        "price": 22,
-        "status": "Sold out",
-        "link": "https://lisahanawalt.bigcartel.com/product/plant-friends-riso-print"
     },
     {
         "title": "Devil's Ivy Sticker",
@@ -154,6 +142,18 @@
         "price": 4.75,
         "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/pothead-sticker-rainbow-roll"
+    },
+    {
+        "title": "PRE-ORDER Winter Floral (Blue Dog in Green Room)",
+        "price": 30,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/dog-in-green-winter-floral"
+    },
+    {
+        "title": "PRE-ORDER Winter Floral (Red Horse in Orange Room)",
+        "price": 30,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/horse-in-orange-winter-floral"
     },
     {
         "title": "Rich Sloth - BIG",
