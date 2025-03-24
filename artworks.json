@@ -144,18 +144,6 @@
         "link": "https://lisahanawalt.bigcartel.com/product/pothead-sticker-rainbow-roll"
     },
     {
-        "title": "PRE-ORDER Winter Floral (Blue Dog in Green Room)",
-        "price": 30,
-        "status": "Available",
-        "link": "https://lisahanawalt.bigcartel.com/product/dog-in-green-winter-floral"
-    },
-    {
-        "title": "PRE-ORDER Winter Floral (Red Horse in Orange Room)",
-        "price": 30,
-        "status": "Available",
-        "link": "https://lisahanawalt.bigcartel.com/product/horse-in-orange-winter-floral"
-    },
-    {
         "title": "Rich Sloth - BIG",
         "price": 100,
         "status": "Available",
@@ -190,5 +178,17 @@
         "price": 45,
         "status": "Available",
         "link": "https://lisahanawalt.bigcartel.com/product/two-horses-tulips-small"
+    },
+    {
+        "title": "Winter Floral (Blue Dog in Green Room)",
+        "price": 30,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/dog-in-green-winter-floral"
+    },
+    {
+        "title": "Winter Floral (Red Horse in Orange Room)",
+        "price": 30,
+        "status": "Coming soon",
+        "link": "https://lisahanawalt.bigcartel.com/product/horse-in-orange-winter-floral"
     }
 ]
