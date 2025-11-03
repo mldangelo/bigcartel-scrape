@@ -23,7 +23,7 @@ jobs:
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code || echo "artworks=true" >> $GITHUB_ENV
+          git diff --exit-code artworks.json || echo "artworks=true" >> $GITHUB_ENV
 
       - name: Commit and push if there are changes
         if: env.artworks == 'true'
